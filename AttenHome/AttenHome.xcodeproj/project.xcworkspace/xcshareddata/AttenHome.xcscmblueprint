@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E63DBB15843D90D814EAFDBE766D1C97D4840ED8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E63DBB15843D90D814EAFDBE766D1C97D4840ED8" : 0,
+    "9025163822AAEA7A2D8AC9210D0874A56F62B462" : 0,
+    "E0273EBD421F513D116FA2E692C35A06341ED220" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0DDD89C-45E9-4A83-8E4B-5F8652504ED8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E63DBB15843D90D814EAFDBE766D1C97D4840ED8" : "ios-AttenHome\/",
+    "9025163822AAEA7A2D8AC9210D0874A56F62B462" : "ios-AttenHome\/Charts\/",
+    "E0273EBD421F513D116FA2E692C35A06341ED220" : "react-native-AttenHome\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AttenHome",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AttenHome\/AttenHome.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielgindi\/Charts",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9025163822AAEA7A2D8AC9210D0874A56F62B462"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.attentec.se:tomvi\/react-native-AttenHome.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0273EBD421F513D116FA2E692C35A06341ED220"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.attentec.se:tomvi\/ios-AttenHome.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E63DBB15843D90D814EAFDBE766D1C97D4840ED8"
+    }
+  ]
+}

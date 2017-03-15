@@ -1,0 +1,15 @@
+var target = UIATarget.localTarget();
+var app = target.frontMostApp();
+var window = app.mainWindow();
+var list = window.tableViews()[0];
+list.cells()[0].tap();
+target.delay(1);
+list.cells()[0].tap();
+target.delay(1);
+window.switches()[0].tap();
+target.delay(1);
+app.navigationBar().leftButton().tap();
+target.delay(1);
+window.logElementTree();
+list.cells()[0].switches()[0].tap();
+target.delay(1);

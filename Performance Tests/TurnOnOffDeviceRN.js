@@ -1,0 +1,13 @@
+var target = UIATarget.localTarget();
+var app = target.frontMostApp();
+var window = app.mainWindow();
+window.scrollViews()[0].elements()[1].tap();
+target.delay(1);
+window.scrollViews()[0].elements()[1].tap();
+target.delay(1);
+window.switches()[0].tap();
+target.delay(1);
+window.elements()[4].tap();
+target.delay(1);
+window.scrollViews()[0].elements()[1].tapWithOptions({tapOffset:{x:0.76, y:0.35}});
+target.delay(1);

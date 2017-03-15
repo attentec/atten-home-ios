@@ -1,0 +1,11 @@
+var target = UIATarget.localTarget();
+var app = target.frontMostApp();
+var window = app.mainWindow();
+var list = window.tableViews()[0];
+list.cells()[0].tap();
+target.delay(1);
+list.cells()[2].tap();
+app.tabBar().buttons()["Stats"].tap();
+window.tableViews()[0].cells()[0].tap();
+window.tableViews()[0].cells()[1].tap();
+target.delay(5);
